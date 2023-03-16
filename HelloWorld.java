@@ -1,8 +1,5 @@
 ### this is my first java code 
 ### bridgelabz
-## IITTTITTTI
-#rattui
-##
 class HelloWorld {
     public static void main(String[] args) {
 	while(true){
